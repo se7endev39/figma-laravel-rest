@@ -1,0 +1,570 @@
+﻿<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="AED">
+	United Arab Emirates - AED (د.إ)
+</option>
+<option value="AFN">
+	Afghan afghani - AFN (؋)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="ALL">
+	Albanian lek - ALL (L)
+</option>
+<option value="AMD">
+	Armenian dram - AMD ()
+</option>
+<option value="AOA">
+	Angolan kwanza - AOA (Kz)
+</option>
+<option value="ARS">
+	Argentine peso - ARS ($)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="AUD">
+	Australian dollar - AUD ($)
+</option>
+<option value="AWG">
+	Aruban florin - AWG (ƒ)
+</option>
+<option value="AZN">
+	Azerbaijani manat - AZN ()
+</option>
+<option value="BBD">
+	Barbadian dollar - BBD ($)
+</option>
+<option value="BDT">
+	Bangladeshi taka - BDT (৳)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="BGN">
+	Bulgarian lev - BGN (лв)
+</option>
+<option value="BHD">
+	Bahraini dinar - BHD (.د.ب)
+</option>
+<option value="BIF">
+	Burundian franc - BIF (Fr)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="BMD">
+	Bermudian dollar - BMD ($)
+</option>
+<option value="BRL">
+	Brazilian real - BRL (R$)
+</option>
+<option value="BTN">
+	Bhutanese ngultrum - BTN (Nu.)
+</option>
+<option value="BWP">
+	Botswana pula - BWP (P)
+</option>
+<option value="BYR">
+	Belarusian ruble - BYR (Br)
+</option>
+<option value="BZD">
+	Belize dollar - BZD ($)
+</option>
+<option value="CAD">
+	Canadian dollar - CAD ($)
+</option>
+<option value="CHF">
+	Swiss franc - CHF (Fr)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="NZD">
+	New Zealand dollar - NZD ($)
+</option>
+<option value="CLP">
+	Chilean peso - CLP ($)
+</option>
+<option value="XAF">
+	Central African CFA - XAF (Fr)
+</option>
+<option value="CNY">
+	Chinese yuan - CNY (¥ or 元)
+</option>
+<option value="COP">
+	Colombian peso - COP ($)
+</option>
+<option value="CRC">
+	Costa Rican colón - CRC (₡)
+</option>
+<option value="CUC">
+	Cuban convertible pe - CUC ($)
+</option>
+<option value="CVE">
+	Cape Verdean escudo - CVE (Esc or $)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="CZK">
+	Czech koruna - CZK (Kč)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="DJF">
+	Djiboutian franc - DJF (Fr)
+</option>
+<option value="DKK">
+	Danish krone - DKK (kr)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="DOP">
+	Dominican peso - DOP ($)
+</option>
+<option value="DZD">
+	Algerian dinar - DZD (د.ج)
+</option>
+<option value="USD">
+	United States dollar - USD ($)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="EGP">
+	Egyptian pound - EGP (£ or ج.م)
+</option>
+<option value="ERN">
+	Eritrean nakfa - ERN (Nfk)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="ETB">
+	Ethiopian birr - ETB (Br)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="FJD">
+	Fijian dollar - FJD ($)
+</option>
+<option value="DKK">
+	Danish krone - DKK (kr)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="XAF">
+	Central African CFA - XAF (Fr)
+</option>
+<option value="GBP">
+	British pound - GBP (£)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="GEL">
+	Georgian lari - GEL (ლ)
+</option>
+<option value="GBP">
+	British pound - GBP (£)
+</option>
+<option value="GHS">
+	Ghana cedi - GHS (₵)
+</option>
+<option value="GIP">
+	Gibraltar pound - GIP (£)
+</option>
+<option value="GNF">
+	Guinean franc - GNF (Fr)
+</option>
+<option value="XAF">
+	Central African CFA - XAF (Fr)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="GTQ">
+	Guatemalan quetzal - GTQ (Q)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="GYD">
+	Guyanese dollar - GYD ($)
+</option>
+<option value="HKD">
+	Hong Kong dollar - HKD ($)
+</option>
+<option value="HNL">
+	Honduran lempira - HNL (L)
+</option>
+<option value="HRK">
+	Croatian kuna - HRK (kn)
+</option>
+<option value="HTG">
+	Haitian gourde - HTG (G)
+</option>
+<option value="HUF">
+	Hungarian forint - HUF (Ft)
+</option>
+<option value="IDR">
+	Indonesian rupiah - IDR (Rp)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="ILS">
+	Israeli new shekel - ILS (₪)
+</option>
+<option value="GBP">
+	British pound - GBP (£)
+</option>
+<option value="INR">
+	Indian rupee - INR (₹)
+</option>
+<option value="IQD">
+	Iraqi dinar - IQD (ع.د)
+</option>
+<option value="ISK">
+	Icelandic króna - ISK (kr)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="GBP">
+	British pound - GBP (£)
+</option>
+<option value="JMD">
+	Jamaican dollar - JMD ($)
+</option>
+<option value="JOD">
+	Jordanian dinar - JOD (د.ا)
+</option>
+<option value="JPY">
+	Japanese yen - JPY (¥)
+</option>
+<option value="KES">
+	Kenyan shilling - KES (Sh)
+</option>
+<option value="KGS">
+	Kyrgyzstani som - KGS (лв)
+</option>
+<option value="KHR">
+	Cambodian riel - KHR (៛)
+</option>
+<option value="AUD">
+	Australian dollar - AUD ($)
+</option>
+<option value="KMF">
+	Comorian franc - KMF (Fr)
+</option>
+<option value="KWD">
+	Kuwaiti dinar - KWD (د.ك)
+</option>
+<option value="KYD">
+	Cayman Islands dolla - KYD ($)
+</option>
+<option value="KZT">
+	Kazakhstani tenge - KZT ()
+</option>
+<option value="LAK">
+	Lao kip - LAK (₭)
+</option>
+<option value="LBP">
+	Lebanese pound - LBP (ل.ل)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="CHF">
+	Swiss franc - CHF (Fr)
+</option>
+<option value="LKR">
+	Sri Lankan rupee - LKR (Rs or රු)
+</option>
+<option value="LRD">
+	Liberian dollar - LRD ($)
+</option>
+<option value="LSL">
+	Lesotho loti - LSL (L)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="MAD">
+	Moroccan dirham - MAD (د.م.)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="MDL">
+	Moldovan leu - MDL (L)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="MGA">
+	Malagasy ariary - MGA (Ar)
+</option>
+<option value="USD">
+	United States dollar - USD ($)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="MMK">
+	Burmese kyat - MMK (Ks)
+</option>
+<option value="MNT">
+	Mongolian tögrög - MNT (₮)
+</option>
+<option value="MRO">
+	Mauritanian ouguiya - MRO (UM)
+</option>
+<option value="XCD">
+	East Caribbean dolla - XCD ($)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="MUR">
+	Mauritian rupee - MUR (₨)
+</option>
+<option value="MVR">
+	Maldivian rufiyaa - MVR (.ރ)
+</option>
+<option value="MWK">
+	Malawian kwacha - MWK (MK)
+</option>
+<option value="MXN">
+	Mexican peso - MXN ($)
+</option>
+<option value="MYR">
+	Malaysian ringgit - MYR (RM)
+</option>
+<option value="MZN">
+	Mozambican metical - MZN (MT)
+</option>
+<option value="NAD">
+	Namibian dollar - NAD ($)
+</option>
+<option value="XPF">
+	CFP franc - XPF (Fr)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="NGN">
+	Nigerian naira - NGN (₦)
+</option>
+<option value="NIO">
+	Nicaraguan córdoba - NIO (C$)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="NOK">
+	Norwegian krone - NOK (kr)
+</option>
+<option value="NPR">
+	Nepalese rupee - NPR (₨)
+</option>
+<option value="AUD">
+	Australian dollar - AUD ($)
+</option>
+<option value="NZD">
+	New Zealand dollar - NZD ($)
+</option>
+<option value="NZD">
+	New Zealand dollar - NZD ($)
+</option>
+<option value="OMR">
+	Omani rial - OMR (ر.ع.)
+</option>
+<option value="PAB">
+	Panamanian balboa - PAB (B/.)
+</option>
+<option value="PEN">
+	Peruvian nuevo sol - PEN (S/.)
+</option>
+<option value="XPF">
+	CFP franc - XPF (Fr)
+</option>
+<option value="PGK">
+	Papua New Guinean ki - PGK (K)
+</option>
+<option value="PHP">
+	Philippine peso - PHP (₱)
+</option>
+<option value="PKR">
+	Pakistani rupee - PKR (₨)
+</option>
+<option value="PLN">
+	Polish z?oty - PLN (zł)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="">
+	Palauan dollar - ($)
+</option>
+<option value="PYG">
+	Paraguayan guaraní - PYG (₲)
+</option>
+<option value="QAR">
+	Qatari riyal - QAR (ر.ق)
+</option>
+<option value="RON">
+	Romanian leu - RON (lei)
+</option>
+<option value="RSD">
+	Serbian dinar - RSD (дин. or din.)
+</option>
+<option value="RUB">
+	Russian ruble - RUB ()
+</option>
+<option value="RWF">
+	Rwandan franc - RWF (Fr)
+</option>
+<option value="SAR">
+	Saudi riyal - SAR (ر.س)
+</option>
+<option value="SBD">
+	Solomon Islands doll - SBD ($)
+</option>
+<option value="SCR">
+	Seychellois rupee - SCR (₨)
+</option>
+<option value="SDG">
+	Sudanese pound - SDG (ج.س.)
+</option>
+<option value="SEK">
+	Swedish krona - SEK (kr)
+</option>
+<option value="BND">
+	Brunei dollar - BND ($)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="SLL">
+	Sierra Leonean leone - SLL (Le)
+</option>
+<option value="EUR">
+	Euro - EUR (€)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="SOS">
+	Somali shilling - SOS (Sh)
+</option>
+<option value="SRD">
+	Surinamese dollar - SRD ($)
+</option>
+<option value="USD">
+	United States dollar - USD ($)
+</option>
+<option value="SZL">
+	Swazi lilangeni - SZL (L)
+</option>
+<option value="XAF">
+	Central African CFA - XAF (Fr)
+</option>
+<option value="XOF">
+	West African CFA fra - XOF (Fr)
+</option>
+<option value="THB">
+	Thai baht - THB (฿)
+</option>
+<option value="TJS">
+	Tajikistani somoni - TJS (ЅМ)
+</option>
+<option value="TMT">
+	Turkmenistan manat - TMT (m)
+</option>
+<option value="TND">
+	Tunisian dinar - TND (د.ت)
+</option>
+<option value="TOP">
+	Tongan pa?anga - TOP (T$)
+</option>
+<option value="TRY">
+	Turkish lira - TRY ()
+</option>
+<option value="TTD">
+	Trinidad and Tobago - TTD ($)
+</option>
+<option value="AUD">
+	Australian dollar - AUD ($)
+</option>
+<option value="TWD">
+	New Taiwan dollar - TWD ($)
+</option>
+<option value="UAH">
+	Ukrainian hryvnia - UAH (₴)
+</option>
+<option value="UGX">
+	Ugandan shilling - UGX (Sh)
+</option>
+<option value="USD">
+	United States dollar - USD ($)
+</option>
+<option value="UYU">
+	Uruguayan peso - UYU ($)
+</option>
+<option value="UZS">
+	Uzbekistani som - UZS ()
+</option>
+<option value="VND">
+	Vietnamese ??ng - VND (₫)
+</option>
+<option value="VUV">
+	Vanuatu vatu - VUV (Vt)
+</option>
+<option value="XPF">
+	CFP franc - XPF (Fr)
+</option>
+<option value="WST">
+	Samoan t?l? - WST (T)
+</option>
+<option value="YER">
+	Yemeni rial - YER (﷼)
+</option>
+<option value="ZAR">
+	South African rand - ZAR (R)
+</option>
+<option value="ZMW">
+	Zambian kwacha - ZMW (ZK)
+</option>
+<option value="BWP">
+	Botswana pula - BWP (P)
+</option>
+<option value="XAU">
+	Gold (troy ounce)
+</option>
+<option value="XAG">
+	Silver (troy ounce)
+</option>
